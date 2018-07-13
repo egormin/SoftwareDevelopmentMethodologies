@@ -9,3 +9,12 @@
 2. ***Working software over comprehensive documentation*** (Работающий продукт важнее исчерпывающей документации)
 3. ***Customer coloboration over contract negotiation*** (Сотрудничество с заказчиком важнее согласования условий контракта)
 4. ***Responding to change over following plan*** (Готовность к изменениям важнее следования первоначальному плану)
+
+***Agile frameworks***:
+- SCRUM
+- Kanban
+- Lean
+- Extreme Programming (XP)
+- Crystal
+- Feature-Driven Development
+- Dynamic Systems Development Mothodology (DSDM)
