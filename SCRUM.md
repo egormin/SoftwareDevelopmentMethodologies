@@ -58,3 +58,5 @@ https://www.youtube.com/watch?v=2uFA3f74D0Q
 ![scrum](scrum.JPG)
 
 ![events](events.JPG)
+
+![artefacts](artefacts.JPG)
