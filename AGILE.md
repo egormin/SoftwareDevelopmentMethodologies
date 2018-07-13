@@ -18,3 +18,5 @@
 - Crystal
 - Feature-Driven Development
 - Dynamic Systems Development Mothodology (DSDM)
+
+![agile](agile.JPG)
